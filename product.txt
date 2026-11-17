@@ -1,0 +1,11 @@
+pID,Type,Name,Brand,Price
+1,D,Ayran,Sutas,20.52
+2,F,Simit,Firin,8.0
+3,C,Deterjan,Ace,45.90
+4,O,Krem,45.90
+5,D,Kola,Pepsi,16.90
+6,D,Fanta,Coca-Cola,16.90
+7,F,Makarna,Duru,15.90
+8,O,Havlu,Duru,33.25
+9,C,Sabun,HaciSakir,14.90
+10,F,Biskuvi,Ulker,5.90

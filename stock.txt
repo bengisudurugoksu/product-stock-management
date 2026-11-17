@@ -1,0 +1,11 @@
+sID,pID,branch,current_stock
+1,8,Istanbul,100
+2,4,Kocaeli,50
+3,1,Istanbul,200
+4,6,Izmir,65
+5,3,Izmir,40
+6,7,Yozgat,60
+7,5,Gumushane,95
+8,2,Trabzon,100
+9,10,Istanbul,55
+10,9,Izmir,75
